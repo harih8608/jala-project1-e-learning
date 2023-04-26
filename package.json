@@ -4,7 +4,7 @@
   "description": "",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/harih8608/jala-project1-e-learning/issues"
   },
-  "homepage": "https://github.com/harih8608/jala-project1-e-learning#readme"
+  "homepage": "https://github.com/harih8608/jala-project1-e-learning#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
 }
